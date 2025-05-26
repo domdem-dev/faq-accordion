@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://faq-accordion-example.netlify.app/
 
 ### Built with
 
